@@ -1,0 +1,13 @@
+﻿Build started 09-12-2015 00:31:14.
+     1>Project "C:\Users\user\Documents\Visual Studio 2013\Projects\image_display\image_display\image_display.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt image_display.cpp stdafx.cpp
+         stdafx.cpp
+         image_display.cpp
+     1>c:\users\user\documents\visual studio 2013\projects\image_display\image_display\image_display.cpp(6): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\user\Documents\Visual Studio 2013\Projects\image_display\image_display\image_display.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.63
